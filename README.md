@@ -1,2 +1,2 @@
 # stocks-analysis
-Analysis Stocks toal daily volume and yearly returns per stock
+Analysis Stocks total daily volume and yearly returns per stock
